@@ -23,7 +23,7 @@ const timelineItems: TimelineItemData[] = [
     location: 'Guyana',
     title: 'Interactive Comic Book',
     description: 'Description of the Interactive Comic Book project.',
-    category: 'general'
+    category: 'Game-Based Learning'
   },
   {
     id: '2',
@@ -32,7 +32,7 @@ const timelineItems: TimelineItemData[] = [
     location: 'Pakistan',
     title: 'Interactive Voice Response',
     description: 'Description of the Interactive Voice Response project.',
-    category: 'general'
+    category: 'Game-Based Learning'
   },
   {
     id: '3',
@@ -41,7 +41,7 @@ const timelineItems: TimelineItemData[] = [
     location: 'GLOBAL',
     title: 'Game-Based Learning Project',
     description: 'Description of the Game-Based Learning project.',
-    category: 'item1'
+    category: 'Demand Generation'
   },
   {
     id: '4',
@@ -50,7 +50,7 @@ const timelineItems: TimelineItemData[] = [
     location: 'GLOBAL',
     title: 'Game-Based Learning Project',
     description: 'Description of the Game-Based Learning project.',
-    category: 'item1'
+    category: 'Demand Generation'
   },
   {
     id: '5',
@@ -59,7 +59,7 @@ const timelineItems: TimelineItemData[] = [
     location: 'GLOBAL',
     title: 'Game-Based Learning Project',
     description: 'Description of the Game-Based Learning project.',
-    category: 'item1'
+    category: 'Social Franchising of Health Services'
   },
 ];
 
